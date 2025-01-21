@@ -10,7 +10,6 @@
 # IP-CIDR6: 64
 # USER-AGENT: 2
 # TOTAL: 332
-DOMAIN,firebaselogging-pa.googleapis.com
 DOMAIN,s3.ap-southeast-1.amazonaws.com
 
 DOMAIN-SUFFIX,appsflyer.com
