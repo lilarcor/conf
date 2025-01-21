@@ -1,0 +1,25 @@
+# NAME: WeChat
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2024-02-03 01:47:59
+# DOMAIN: 7
+# DOMAIN-KEYWORD: 233
+# DOMAIN-SUFFIX: 22
+# IP-ASN: 1
+# IP-CIDR: 3
+# IP-CIDR6: 64
+# USER-AGENT: 2
+# TOTAL: 332
+DOMAIN,firebaselogging-pa.googleapis.com
+DOMAIN,s3.ap-southeast-1.amazonaws.com
+
+DOMAIN-SUFFIX,appsflyer.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
+DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
+IP-CIDR,52.59.251.35
